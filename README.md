@@ -7,7 +7,7 @@ Official Go client and server publisher for **Courseexe Realtime Channels** (`ht
 ## Installation
 
 ```bash
-go get github.com/courseexe/realtime-go
+go get github.com/projectslyai/realtime-go
 ```
 
 ---
@@ -19,7 +19,7 @@ package main
 
 import (
 	"log"
-	realtime "github.com/courseexe/realtime-go"
+	realtime "github.com/projectslyai/realtime-go"
 )
 
 func main() {
@@ -46,4 +46,4 @@ func main() {
 ---
 
 ## License
-MIT © [Courseexe](https://courseexe.com)
+MIT © [Courseexe](https://courseexe.com) & [PROJECTSLY AI SOLUTIONS](https://projectsly.in)
